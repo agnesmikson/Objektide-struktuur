@@ -1,0 +1,15 @@
+C:\Users\mikso\Desktop\TARge20.Core\bin\Debug\net5.0\TARge20.Core.deps.json
+C:\Users\mikso\Desktop\TARge20.Core\bin\Debug\net5.0\TARge20.Core.dll
+C:\Users\mikso\Desktop\TARge20.Core\bin\Debug\net5.0\ref\TARge20.Core.dll
+C:\Users\mikso\Desktop\TARge20.Core\bin\Debug\net5.0\TARge20.Core.pdb
+C:\Users\mikso\Desktop\TARge20.Core\obj\Debug\net5.0\TARge20.Core.csproj.AssemblyReference.cache
+C:\Users\mikso\Desktop\TARge20.Core\obj\Debug\net5.0\TARge20.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikso\Desktop\TARge20.Core\obj\Debug\net5.0\TARge20.Core.AssemblyInfoInputs.cache
+C:\Users\mikso\Desktop\TARge20.Core\obj\Debug\net5.0\TARge20.Core.AssemblyInfo.cs
+C:\Users\mikso\Desktop\TARge20.Core\obj\Debug\net5.0\TARge20.Core.csproj.CoreCompileInputs.cache
+C:\Users\mikso\Desktop\TARge20.Core\obj\Debug\net5.0\TARge20.Core.dll
+C:\Users\mikso\Desktop\TARge20.Core\obj\Debug\net5.0\ref\TARge20.Core.dll
+C:\Users\mikso\Desktop\TARge20.Core\obj\Debug\net5.0\TARge20.Core.pdb
+C:\Users\mikso\Desktop\TARge20.Core\bin\Debug\net5.0\TARge20.Core.runtimeconfig.json
+C:\Users\mikso\Desktop\TARge20.Core\bin\Debug\net5.0\TARge20.Core.runtimeconfig.dev.json
+C:\Users\mikso\Desktop\TARge20.Core\obj\Debug\net5.0\TARge20.Core.genruntimeconfig.cache
